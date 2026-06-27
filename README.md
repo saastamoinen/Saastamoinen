@@ -1,18 +1,38 @@
-## Leevi Saastamoinen
+### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
 
-GitHub profile ReadMe repo private while under construction 🏗️ 🚧 🛠️
-
+I'm Leevi Saastamoinen, a self-learning hobbyist web developer 🌐 from Espoo, Finland 🇫🇮
 <!--
-**saastamoinen/Saastamoinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 -->
+
+**Currently working with or learning:**  
+
+- Languages & Frameworks:
+    
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
+    ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&style=for-the-badge)
+   
+- Databases:
+
+    ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase)
+    
+- Cloud & Hosting:
+
+    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel)
+    ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-grey?style=for-the-badge)![Ubuntu Server 24.04](https://img.shields.io/badge/Ubuntu%20Server%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+- IDEs/Editors:
+
+    ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+    
+- Others: 
+
+    ![Photography](https://img.shields.io/badge/📷_Photography-FF6F91?style=for-the-badge)
+    ![Lightroom Classic](https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
+    ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
