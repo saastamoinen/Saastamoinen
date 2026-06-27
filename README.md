@@ -1,4 +1,4 @@
-### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
 I'm Leevi Saastamoinen, a self-learning hobbyist web developer 🌐 from Espoo, Finland 🇫🇮
@@ -6,7 +6,7 @@ I'm Leevi Saastamoinen, a self-learning hobbyist web developer 🌐 from Espoo, 
   <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 -->
 
-**Currently working with or learning:**  
+### Currently working with or learning:  
 
 - Languages & Frameworks:
     
@@ -36,3 +36,7 @@ I'm Leevi Saastamoinen, a self-learning hobbyist web developer 🌐 from Espoo, 
     ![Lightroom Classic](https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
     ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 
+
+### Currently working on
+
+* Fully custom and self-hosted digital signane system for a volunteer fire department (open-sourcing in progress)
