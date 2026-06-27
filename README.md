@@ -19,7 +19,7 @@ I'm Leevi Saastamoinen, a self-learning hobbyist web developer 🌐 from Espoo, 
    
 - Databases:
 
-    ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase)
+    ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white)
     
 - Cloud & Hosting:
 
